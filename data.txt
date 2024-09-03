@@ -1,0 +1,17 @@
+columns = ['name','age','subjects','Marks']
+student_marks = [
+    {'name':'sam',
+    'age':25,
+    'subjects':['Maths','science','CS','Statistics','Phyisics','Bio'],
+    'Marks':[60,70,80,90,70,60]},
+    
+    {'name':'jack',
+    'age':26,
+    'subjects':['Maths','science','CS','Statistics','Phyisics','Bio'],
+    'Marks':[60,70,80,80,70,60]},
+                 
+    {'name':'syeda',
+    'age':27,
+    'subjects':['Maths','science','CS','Statistics','Phyisics','Bio'],
+    'Marks':[60,50,80,70,70,60]}
+                ]
